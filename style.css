@@ -1,0 +1,23 @@
+.stripe-background {
+  background: repeating-linear-gradient(
+      45deg,
+      transparent,
+      transparent 20px,
+      white 60px
+    ),
+    linear-gradient(
+      10deg,
+      royalblue,
+      #5768df,
+      #8164d7,
+      #aa60c8,
+      #cc60b3,
+      #e3689c,
+      #ed7889,
+      #ee8c7e,
+      #e99e7c,
+      #e4ac7f,
+      #e0b585,
+      burlywood
+    );
+}
